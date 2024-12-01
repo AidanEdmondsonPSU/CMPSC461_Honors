@@ -1,0 +1,620 @@
+{
+    "#select.columns.0.name": "node",
+    "#select.columns.0.kind": "Entity",
+    "#select.columns.1.kind": "Entity",
+    "#select.columns.2.kind": "Entity",
+    "#select.columns.3.kind": "Entity",
+    "#select.columns.4.kind": "Entity",
+    "#select.tuples.0": [
+        {
+            "label": "FunctionDef"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test2/squareroot.py:1"
+        },
+        {
+            "label": "Script squareroot.py"
+        },
+        {
+            "label": "FunctionExpr"
+        },
+        {
+            "label": "Script squareroot.py"
+        }
+    ],
+    "#select.tuples.1": [
+        {
+            "label": "FunctionDef"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test2/squareroot.py:1"
+        },
+        {
+            "label": "Script squareroot.py"
+        },
+        {
+            "label": "main"
+        },
+        {
+            "label": "Script squareroot.py"
+        }
+    ],
+    "#select.tuples.2": [
+        {
+            "label": "FunctionExpr"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test2/squareroot.py:1"
+        },
+        {
+            "label": "FunctionDef"
+        },
+        {
+            "label": "Function main"
+        },
+        {
+            "label": "Script squareroot.py"
+        }
+    ],
+    "#select.tuples.3": [
+        {
+            "label": "Function main"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test2/squareroot.py:1"
+        },
+        {
+            "label": "FunctionExpr"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "Script squareroot.py"
+        }
+    ],
+    "#select.tuples.4": [
+        {
+            "label": "Try"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test2/squareroot.py:2"
+        },
+        {
+            "label": "Function main"
+        },
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.5": [
+        {
+            "label": "Try"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test2/squareroot.py:2"
+        },
+        {
+            "label": "Function main"
+        },
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.6": [
+        {
+            "label": "Try"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test2/squareroot.py:2"
+        },
+        {
+            "label": "Function main"
+        },
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.7": [
+        {
+            "label": "Try"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test2/squareroot.py:2"
+        },
+        {
+            "label": "Function main"
+        },
+        {
+            "label": "ExceptStmt"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.8": [
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test2/squareroot.py:3"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "float()"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.9": [
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test2/squareroot.py:3"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "num"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.10": [
+        {
+            "label": "float()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test2/squareroot.py:3"
+        },
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "float"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.11": [
+        {
+            "label": "float()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test2/squareroot.py:3"
+        },
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "input()"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.12": [
+        {
+            "label": "input()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test2/squareroot.py:3"
+        },
+        {
+            "label": "float()"
+        },
+        {
+            "label": "input"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.13": [
+        {
+            "label": "input()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test2/squareroot.py:3"
+        },
+        {
+            "label": "float()"
+        },
+        {
+            "label": "StringLiteral"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.14": [
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test2/squareroot.py:6"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.15": [
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test2/squareroot.py:6"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "num_sqrt"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.16": [
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test2/squareroot.py:6"
+        },
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "num"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.17": [
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test2/squareroot.py:6"
+        },
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "FloatLiteral"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.18": [
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test2/squareroot.py:7"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "print()"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.19": [
+        {
+            "label": "print()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test2/squareroot.py:7"
+        },
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "print"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.20": [
+        {
+            "label": "print()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test2/squareroot.py:7"
+        },
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.21": [
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test2/squareroot.py:7"
+        },
+        {
+            "label": "print()"
+        },
+        {
+            "label": "StringLiteral"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.22": [
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test2/squareroot.py:7"
+        },
+        {
+            "label": "print()"
+        },
+        {
+            "label": "Tuple"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.23": [
+        {
+            "label": "Tuple"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test2/squareroot.py:7"
+        },
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "num"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.24": [
+        {
+            "label": "Tuple"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test2/squareroot.py:7"
+        },
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "num_sqrt"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.25": [
+        {
+            "label": "ExceptStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test2/squareroot.py:9"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "ValueError"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.26": [
+        {
+            "label": "ExceptStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test2/squareroot.py:9"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.27": [
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test2/squareroot.py:10"
+        },
+        {
+            "label": "ExceptStmt"
+        },
+        {
+            "label": "print()"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.28": [
+        {
+            "label": "print()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test2/squareroot.py:10"
+        },
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "print"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.29": [
+        {
+            "label": "print()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test2/squareroot.py:10"
+        },
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "StringLiteral"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.30": [
+        {
+            "label": "If"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test2/squareroot.py:12"
+        },
+        {
+            "label": "Script squareroot.py"
+        },
+        {
+            "label": "Compare"
+        },
+        {
+            "label": "Script squareroot.py"
+        }
+    ],
+    "#select.tuples.31": [
+        {
+            "label": "If"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test2/squareroot.py:12"
+        },
+        {
+            "label": "Script squareroot.py"
+        },
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "Script squareroot.py"
+        }
+    ],
+    "#select.tuples.32": [
+        {
+            "label": "Compare"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test2/squareroot.py:12"
+        },
+        {
+            "label": "If"
+        },
+        {
+            "label": "__name__"
+        },
+        {
+            "label": "Script squareroot.py"
+        }
+    ],
+    "#select.tuples.33": [
+        {
+            "label": "Compare"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test2/squareroot.py:12"
+        },
+        {
+            "label": "If"
+        },
+        {
+            "label": "StringLiteral"
+        },
+        {
+            "label": "Script squareroot.py"
+        }
+    ],
+    "#select.tuples.34": [
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test2/squareroot.py:13"
+        },
+        {
+            "label": "If"
+        },
+        {
+            "label": "main()"
+        },
+        {
+            "label": "Script squareroot.py"
+        }
+    ],
+    "#select.tuples.35": [
+        {
+            "label": "main()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test2/squareroot.py:13"
+        },
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "main"
+        },
+        {
+            "label": "Script squareroot.py"
+        }
+    ]
+}

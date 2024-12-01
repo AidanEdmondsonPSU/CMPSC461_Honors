@@ -1,0 +1,809 @@
+{
+    "#select.columns.0.name": "node",
+    "#select.columns.0.kind": "Entity",
+    "#select.columns.1.kind": "Entity",
+    "#select.columns.2.kind": "Entity",
+    "#select.columns.3.kind": "Entity",
+    "#select.columns.4.kind": "Entity",
+    "#select.columns.5.kind": "Entity",
+    "#select.tuples.0": [
+        {
+            "label": "ControlFlowNode for Try"
+        },
+        {
+            "label": "Entry node for Function main"
+        },
+        {
+            "label": "ControlFlowNode for float"
+        },
+        {
+            "label": "BasicBlock"
+        },
+        {
+            "label": "Script squareroot.py"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.1": [
+        {
+            "label": "ControlFlowNode for float"
+        },
+        {
+            "label": "ControlFlowNode for Try"
+        },
+        {
+            "label": "ControlFlowNode for input"
+        },
+        {
+            "label": "BasicBlock"
+        },
+        {
+            "label": "Script squareroot.py"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.2": [
+        {
+            "label": "ControlFlowNode for input"
+        },
+        {
+            "label": "ControlFlowNode for float"
+        },
+        {
+            "label": "ControlFlowNode for StringLiteral"
+        },
+        {
+            "label": "BasicBlock"
+        },
+        {
+            "label": "Script squareroot.py"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.3": [
+        {
+            "label": "ControlFlowNode for StringLiteral"
+        },
+        {
+            "label": "ControlFlowNode for input"
+        },
+        {
+            "label": "ControlFlowNode for input()"
+        },
+        {
+            "label": "BasicBlock"
+        },
+        {
+            "label": "Script squareroot.py"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.4": [
+        {
+            "label": "ControlFlowNode for input()"
+        },
+        {
+            "label": "ControlFlowNode for StringLiteral"
+        },
+        {
+            "label": "ControlFlowNode for float()"
+        },
+        {
+            "label": "BasicBlock"
+        },
+        {
+            "label": "Script squareroot.py"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.5": [
+        {
+            "label": "ControlFlowNode for input()"
+        },
+        {
+            "label": "ControlFlowNode for StringLiteral"
+        },
+        {
+            "label": "ControlFlowNode for ExceptStmt"
+        },
+        {
+            "label": "BasicBlock"
+        },
+        {
+            "label": "Script squareroot.py"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.6": [
+        {
+            "label": "ControlFlowNode for float()"
+        },
+        {
+            "label": "ControlFlowNode for input()"
+        },
+        {
+            "label": "ControlFlowNode for num"
+        },
+        {
+            "label": "BasicBlock"
+        },
+        {
+            "label": "Script squareroot.py"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.7": [
+        {
+            "label": "ControlFlowNode for float()"
+        },
+        {
+            "label": "ControlFlowNode for input()"
+        },
+        {
+            "label": "ControlFlowNode for ExceptStmt"
+        },
+        {
+            "label": "BasicBlock"
+        },
+        {
+            "label": "Script squareroot.py"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.8": [
+        {
+            "label": "ControlFlowNode for num"
+        },
+        {
+            "label": "ControlFlowNode for float()"
+        },
+        {
+            "label": "ControlFlowNode for num"
+        },
+        {
+            "label": "BasicBlock"
+        },
+        {
+            "label": "Script squareroot.py"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.9": [
+        {
+            "label": "ControlFlowNode for num"
+        },
+        {
+            "label": "ControlFlowNode for num"
+        },
+        {
+            "label": "ControlFlowNode for FloatLiteral"
+        },
+        {
+            "label": "BasicBlock"
+        },
+        {
+            "label": "Script squareroot.py"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.10": [
+        {
+            "label": "ControlFlowNode for FloatLiteral"
+        },
+        {
+            "label": "ControlFlowNode for num"
+        },
+        {
+            "label": "ControlFlowNode for BinaryExpr"
+        },
+        {
+            "label": "BasicBlock"
+        },
+        {
+            "label": "Script squareroot.py"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.11": [
+        {
+            "label": "ControlFlowNode for BinaryExpr"
+        },
+        {
+            "label": "ControlFlowNode for FloatLiteral"
+        },
+        {
+            "label": "ControlFlowNode for num_sqrt"
+        },
+        {
+            "label": "BasicBlock"
+        },
+        {
+            "label": "Script squareroot.py"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.12": [
+        {
+            "label": "ControlFlowNode for BinaryExpr"
+        },
+        {
+            "label": "ControlFlowNode for FloatLiteral"
+        },
+        {
+            "label": "ControlFlowNode for ExceptStmt"
+        },
+        {
+            "label": "BasicBlock"
+        },
+        {
+            "label": "Script squareroot.py"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.13": [
+        {
+            "label": "ControlFlowNode for num_sqrt"
+        },
+        {
+            "label": "ControlFlowNode for BinaryExpr"
+        },
+        {
+            "label": "ControlFlowNode for print"
+        },
+        {
+            "label": "BasicBlock"
+        },
+        {
+            "label": "Script squareroot.py"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.14": [
+        {
+            "label": "ControlFlowNode for print"
+        },
+        {
+            "label": "ControlFlowNode for num_sqrt"
+        },
+        {
+            "label": "ControlFlowNode for StringLiteral"
+        },
+        {
+            "label": "BasicBlock"
+        },
+        {
+            "label": "Script squareroot.py"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.15": [
+        {
+            "label": "ControlFlowNode for StringLiteral"
+        },
+        {
+            "label": "ControlFlowNode for print"
+        },
+        {
+            "label": "ControlFlowNode for num"
+        },
+        {
+            "label": "BasicBlock"
+        },
+        {
+            "label": "Script squareroot.py"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.16": [
+        {
+            "label": "ControlFlowNode for num"
+        },
+        {
+            "label": "ControlFlowNode for StringLiteral"
+        },
+        {
+            "label": "ControlFlowNode for num_sqrt"
+        },
+        {
+            "label": "BasicBlock"
+        },
+        {
+            "label": "Script squareroot.py"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.17": [
+        {
+            "label": "ControlFlowNode for num_sqrt"
+        },
+        {
+            "label": "ControlFlowNode for num"
+        },
+        {
+            "label": "ControlFlowNode for Tuple"
+        },
+        {
+            "label": "BasicBlock"
+        },
+        {
+            "label": "Script squareroot.py"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.18": [
+        {
+            "label": "ControlFlowNode for Tuple"
+        },
+        {
+            "label": "ControlFlowNode for num_sqrt"
+        },
+        {
+            "label": "ControlFlowNode for BinaryExpr"
+        },
+        {
+            "label": "BasicBlock"
+        },
+        {
+            "label": "Script squareroot.py"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.19": [
+        {
+            "label": "ControlFlowNode for BinaryExpr"
+        },
+        {
+            "label": "ControlFlowNode for Tuple"
+        },
+        {
+            "label": "ControlFlowNode for print()"
+        },
+        {
+            "label": "BasicBlock"
+        },
+        {
+            "label": "Script squareroot.py"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.20": [
+        {
+            "label": "ControlFlowNode for BinaryExpr"
+        },
+        {
+            "label": "ControlFlowNode for Tuple"
+        },
+        {
+            "label": "ControlFlowNode for ExceptStmt"
+        },
+        {
+            "label": "BasicBlock"
+        },
+        {
+            "label": "Script squareroot.py"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.21": [
+        {
+            "label": "ControlFlowNode for print()"
+        },
+        {
+            "label": "ControlFlowNode for BinaryExpr"
+        },
+        {
+            "label": "ControlFlowNode for ExceptStmt"
+        },
+        {
+            "label": "BasicBlock"
+        },
+        {
+            "label": "Script squareroot.py"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.22": [
+        {
+            "label": "ControlFlowNode for print()"
+        },
+        {
+            "label": "ControlFlowNode for BinaryExpr"
+        },
+        {
+            "label": "Exit node for Function main"
+        },
+        {
+            "label": "BasicBlock"
+        },
+        {
+            "label": "Script squareroot.py"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.23": [
+        {
+            "label": "ControlFlowNode for ExceptStmt"
+        },
+        {
+            "label": "ControlFlowNode for input()"
+        },
+        {
+            "label": "ControlFlowNode for ValueError"
+        },
+        {
+            "label": "BasicBlock"
+        },
+        {
+            "label": "Script squareroot.py"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.24": [
+        {
+            "label": "ControlFlowNode for ExceptStmt"
+        },
+        {
+            "label": "ControlFlowNode for float()"
+        },
+        {
+            "label": "ControlFlowNode for ValueError"
+        },
+        {
+            "label": "BasicBlock"
+        },
+        {
+            "label": "Script squareroot.py"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.25": [
+        {
+            "label": "ControlFlowNode for ExceptStmt"
+        },
+        {
+            "label": "ControlFlowNode for BinaryExpr"
+        },
+        {
+            "label": "ControlFlowNode for ValueError"
+        },
+        {
+            "label": "BasicBlock"
+        },
+        {
+            "label": "Script squareroot.py"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.26": [
+        {
+            "label": "ControlFlowNode for ExceptStmt"
+        },
+        {
+            "label": "ControlFlowNode for BinaryExpr"
+        },
+        {
+            "label": "ControlFlowNode for ValueError"
+        },
+        {
+            "label": "BasicBlock"
+        },
+        {
+            "label": "Script squareroot.py"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.27": [
+        {
+            "label": "ControlFlowNode for ExceptStmt"
+        },
+        {
+            "label": "ControlFlowNode for print()"
+        },
+        {
+            "label": "ControlFlowNode for ValueError"
+        },
+        {
+            "label": "BasicBlock"
+        },
+        {
+            "label": "Script squareroot.py"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.28": [
+        {
+            "label": "ControlFlowNode for ValueError"
+        },
+        {
+            "label": "ControlFlowNode for ExceptStmt"
+        },
+        {
+            "label": "ControlFlowNode for print"
+        },
+        {
+            "label": "BasicBlock"
+        },
+        {
+            "label": "Script squareroot.py"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.29": [
+        {
+            "label": "ControlFlowNode for print"
+        },
+        {
+            "label": "ControlFlowNode for ValueError"
+        },
+        {
+            "label": "ControlFlowNode for StringLiteral"
+        },
+        {
+            "label": "BasicBlock"
+        },
+        {
+            "label": "Script squareroot.py"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.30": [
+        {
+            "label": "ControlFlowNode for StringLiteral"
+        },
+        {
+            "label": "ControlFlowNode for print"
+        },
+        {
+            "label": "ControlFlowNode for print()"
+        },
+        {
+            "label": "BasicBlock"
+        },
+        {
+            "label": "Script squareroot.py"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.31": [
+        {
+            "label": "ControlFlowNode for print()"
+        },
+        {
+            "label": "ControlFlowNode for StringLiteral"
+        },
+        {
+            "label": "Exit node for Function main"
+        },
+        {
+            "label": "BasicBlock"
+        },
+        {
+            "label": "Script squareroot.py"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.32": [
+        {
+            "label": "ControlFlowNode for FunctionExpr"
+        },
+        {
+            "label": "Entry node for Script squareroot.py"
+        },
+        {
+            "label": "ControlFlowNode for main"
+        },
+        {
+            "label": "BasicBlock"
+        },
+        {
+            "label": "Script squareroot.py"
+        },
+        {
+            "label": "Script squareroot.py"
+        }
+    ],
+    "#select.tuples.33": [
+        {
+            "label": "ControlFlowNode for main"
+        },
+        {
+            "label": "ControlFlowNode for FunctionExpr"
+        },
+        {
+            "label": "ControlFlowNode for __name__"
+        },
+        {
+            "label": "BasicBlock"
+        },
+        {
+            "label": "Script squareroot.py"
+        },
+        {
+            "label": "Script squareroot.py"
+        }
+    ],
+    "#select.tuples.34": [
+        {
+            "label": "ControlFlowNode for __name__"
+        },
+        {
+            "label": "ControlFlowNode for main"
+        },
+        {
+            "label": "ControlFlowNode for StringLiteral"
+        },
+        {
+            "label": "BasicBlock"
+        },
+        {
+            "label": "Script squareroot.py"
+        },
+        {
+            "label": "Script squareroot.py"
+        }
+    ],
+    "#select.tuples.35": [
+        {
+            "label": "ControlFlowNode for StringLiteral"
+        },
+        {
+            "label": "ControlFlowNode for __name__"
+        },
+        {
+            "label": "ControlFlowNode for Compare"
+        },
+        {
+            "label": "BasicBlock"
+        },
+        {
+            "label": "Script squareroot.py"
+        },
+        {
+            "label": "Script squareroot.py"
+        }
+    ],
+    "#select.tuples.36": [
+        {
+            "label": "ControlFlowNode for Compare"
+        },
+        {
+            "label": "ControlFlowNode for StringLiteral"
+        },
+        {
+            "label": "ControlFlowNode for main"
+        },
+        {
+            "label": "BasicBlock"
+        },
+        {
+            "label": "Script squareroot.py"
+        },
+        {
+            "label": "Script squareroot.py"
+        }
+    ],
+    "#select.tuples.37": [
+        {
+            "label": "ControlFlowNode for Compare"
+        },
+        {
+            "label": "ControlFlowNode for StringLiteral"
+        },
+        {
+            "label": "Exit node for Script squareroot.py"
+        },
+        {
+            "label": "BasicBlock"
+        },
+        {
+            "label": "Script squareroot.py"
+        },
+        {
+            "label": "Script squareroot.py"
+        }
+    ],
+    "#select.tuples.38": [
+        {
+            "label": "ControlFlowNode for main"
+        },
+        {
+            "label": "ControlFlowNode for Compare"
+        },
+        {
+            "label": "ControlFlowNode for main()"
+        },
+        {
+            "label": "BasicBlock"
+        },
+        {
+            "label": "Script squareroot.py"
+        },
+        {
+            "label": "Script squareroot.py"
+        }
+    ],
+    "#select.tuples.39": [
+        {
+            "label": "ControlFlowNode for main()"
+        },
+        {
+            "label": "ControlFlowNode for main"
+        },
+        {
+            "label": "Exit node for Script squareroot.py"
+        },
+        {
+            "label": "BasicBlock"
+        },
+        {
+            "label": "Script squareroot.py"
+        },
+        {
+            "label": "Script squareroot.py"
+        }
+    ]
+}
