@@ -1,0 +1,841 @@
+{
+    "#select.columns.0.name": "node",
+    "#select.columns.0.kind": "Entity",
+    "#select.columns.1.kind": "Entity",
+    "#select.columns.2.kind": "Entity",
+    "#select.columns.3.kind": "Entity",
+    "#select.columns.4.kind": "Entity",
+    "#select.tuples.0": [
+        {
+            "label": "FunctionDef"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test4/swap.py:1"
+        },
+        {
+            "label": "Script swap.py"
+        },
+        {
+            "label": "FunctionExpr"
+        },
+        {
+            "label": "Script swap.py"
+        }
+    ],
+    "#select.tuples.1": [
+        {
+            "label": "FunctionDef"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test4/swap.py:1"
+        },
+        {
+            "label": "Script swap.py"
+        },
+        {
+            "label": "main"
+        },
+        {
+            "label": "Script swap.py"
+        }
+    ],
+    "#select.tuples.2": [
+        {
+            "label": "FunctionExpr"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test4/swap.py:1"
+        },
+        {
+            "label": "FunctionDef"
+        },
+        {
+            "label": "Function main"
+        },
+        {
+            "label": "Script swap.py"
+        }
+    ],
+    "#select.tuples.3": [
+        {
+            "label": "Function main"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test4/swap.py:1"
+        },
+        {
+            "label": "FunctionExpr"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "Script swap.py"
+        }
+    ],
+    "#select.tuples.4": [
+        {
+            "label": "Try"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test4/swap.py:3"
+        },
+        {
+            "label": "Function main"
+        },
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.5": [
+        {
+            "label": "Try"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test4/swap.py:3"
+        },
+        {
+            "label": "Function main"
+        },
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.6": [
+        {
+            "label": "Try"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test4/swap.py:3"
+        },
+        {
+            "label": "Function main"
+        },
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.7": [
+        {
+            "label": "Try"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test4/swap.py:3"
+        },
+        {
+            "label": "Function main"
+        },
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.8": [
+        {
+            "label": "Try"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test4/swap.py:3"
+        },
+        {
+            "label": "Function main"
+        },
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.9": [
+        {
+            "label": "Try"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test4/swap.py:3"
+        },
+        {
+            "label": "Function main"
+        },
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.10": [
+        {
+            "label": "Try"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test4/swap.py:3"
+        },
+        {
+            "label": "Function main"
+        },
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.11": [
+        {
+            "label": "Try"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test4/swap.py:3"
+        },
+        {
+            "label": "Function main"
+        },
+        {
+            "label": "ExceptStmt"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.12": [
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test4/swap.py:4"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "input()"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.13": [
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test4/swap.py:4"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "x"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.14": [
+        {
+            "label": "input()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test4/swap.py:4"
+        },
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "input"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.15": [
+        {
+            "label": "input()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test4/swap.py:4"
+        },
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "StringLiteral"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.16": [
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test4/swap.py:5"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "input()"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.17": [
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test4/swap.py:5"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "y"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.18": [
+        {
+            "label": "input()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test4/swap.py:5"
+        },
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "input"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.19": [
+        {
+            "label": "input()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test4/swap.py:5"
+        },
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "StringLiteral"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.20": [
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test4/swap.py:8"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "x"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.21": [
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test4/swap.py:8"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "temp"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.22": [
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test4/swap.py:9"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "y"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.23": [
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test4/swap.py:9"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "x"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.24": [
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test4/swap.py:10"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "temp"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.25": [
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test4/swap.py:10"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "y"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.26": [
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test4/swap.py:13"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "print()"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.27": [
+        {
+            "label": "print()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test4/swap.py:13"
+        },
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "print"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.28": [
+        {
+            "label": "print()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test4/swap.py:13"
+        },
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "Attribute()"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.29": [
+        {
+            "label": "Attribute()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test4/swap.py:13"
+        },
+        {
+            "label": "print()"
+        },
+        {
+            "label": "Attribute"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.30": [
+        {
+            "label": "Attribute()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test4/swap.py:13"
+        },
+        {
+            "label": "print()"
+        },
+        {
+            "label": "x"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.31": [
+        {
+            "label": "Attribute"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test4/swap.py:13"
+        },
+        {
+            "label": "Attribute()"
+        },
+        {
+            "label": "StringLiteral"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.32": [
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test4/swap.py:14"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "print()"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.33": [
+        {
+            "label": "print()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test4/swap.py:14"
+        },
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "print"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.34": [
+        {
+            "label": "print()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test4/swap.py:14"
+        },
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "Attribute()"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.35": [
+        {
+            "label": "Attribute()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test4/swap.py:14"
+        },
+        {
+            "label": "print()"
+        },
+        {
+            "label": "Attribute"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.36": [
+        {
+            "label": "Attribute()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test4/swap.py:14"
+        },
+        {
+            "label": "print()"
+        },
+        {
+            "label": "y"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.37": [
+        {
+            "label": "Attribute"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test4/swap.py:14"
+        },
+        {
+            "label": "Attribute()"
+        },
+        {
+            "label": "StringLiteral"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.38": [
+        {
+            "label": "ExceptStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test4/swap.py:16"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "ValueError"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.39": [
+        {
+            "label": "ExceptStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test4/swap.py:16"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.40": [
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test4/swap.py:17"
+        },
+        {
+            "label": "ExceptStmt"
+        },
+        {
+            "label": "print()"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.41": [
+        {
+            "label": "print()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test4/swap.py:17"
+        },
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "print"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.42": [
+        {
+            "label": "print()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test4/swap.py:17"
+        },
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "StringLiteral"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.43": [
+        {
+            "label": "If"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test4/swap.py:19"
+        },
+        {
+            "label": "Script swap.py"
+        },
+        {
+            "label": "Compare"
+        },
+        {
+            "label": "Script swap.py"
+        }
+    ],
+    "#select.tuples.44": [
+        {
+            "label": "If"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test4/swap.py:19"
+        },
+        {
+            "label": "Script swap.py"
+        },
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "Script swap.py"
+        }
+    ],
+    "#select.tuples.45": [
+        {
+            "label": "Compare"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test4/swap.py:19"
+        },
+        {
+            "label": "If"
+        },
+        {
+            "label": "__name__"
+        },
+        {
+            "label": "Script swap.py"
+        }
+    ],
+    "#select.tuples.46": [
+        {
+            "label": "Compare"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test4/swap.py:19"
+        },
+        {
+            "label": "If"
+        },
+        {
+            "label": "StringLiteral"
+        },
+        {
+            "label": "Script swap.py"
+        }
+    ],
+    "#select.tuples.47": [
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test4/swap.py:20"
+        },
+        {
+            "label": "If"
+        },
+        {
+            "label": "main()"
+        },
+        {
+            "label": "Script swap.py"
+        }
+    ],
+    "#select.tuples.48": [
+        {
+            "label": "main()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test4/swap.py:20"
+        },
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "main"
+        },
+        {
+            "label": "Script swap.py"
+        }
+    ]
+}
