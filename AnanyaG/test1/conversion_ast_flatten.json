@@ -1,0 +1,671 @@
+{
+    "#select.columns.0.name": "node",
+    "#select.columns.0.kind": "Entity",
+    "#select.columns.1.kind": "Entity",
+    "#select.columns.2.kind": "Entity",
+    "#select.columns.3.kind": "Entity",
+    "#select.columns.4.kind": "Entity",
+    "#select.tuples.0": [
+        {
+            "label": "FunctionDef"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test1/conversion.py:1"
+        },
+        {
+            "label": "Script conversion.py"
+        },
+        {
+            "label": "FunctionExpr"
+        },
+        {
+            "label": "Script conversion.py"
+        }
+    ],
+    "#select.tuples.1": [
+        {
+            "label": "FunctionDef"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test1/conversion.py:1"
+        },
+        {
+            "label": "Script conversion.py"
+        },
+        {
+            "label": "main"
+        },
+        {
+            "label": "Script conversion.py"
+        }
+    ],
+    "#select.tuples.2": [
+        {
+            "label": "FunctionExpr"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test1/conversion.py:1"
+        },
+        {
+            "label": "FunctionDef"
+        },
+        {
+            "label": "Function main"
+        },
+        {
+            "label": "Script conversion.py"
+        }
+    ],
+    "#select.tuples.3": [
+        {
+            "label": "Function main"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test1/conversion.py:1"
+        },
+        {
+            "label": "FunctionExpr"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "Script conversion.py"
+        }
+    ],
+    "#select.tuples.4": [
+        {
+            "label": "Try"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test1/conversion.py:3"
+        },
+        {
+            "label": "Function main"
+        },
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.5": [
+        {
+            "label": "Try"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test1/conversion.py:3"
+        },
+        {
+            "label": "Function main"
+        },
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.6": [
+        {
+            "label": "Try"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test1/conversion.py:3"
+        },
+        {
+            "label": "Function main"
+        },
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.7": [
+        {
+            "label": "Try"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test1/conversion.py:3"
+        },
+        {
+            "label": "Function main"
+        },
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.8": [
+        {
+            "label": "Try"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test1/conversion.py:3"
+        },
+        {
+            "label": "Function main"
+        },
+        {
+            "label": "ExceptStmt"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.9": [
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test1/conversion.py:5"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "float()"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.10": [
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test1/conversion.py:5"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "kilometers"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.11": [
+        {
+            "label": "float()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test1/conversion.py:5"
+        },
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "float"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.12": [
+        {
+            "label": "float()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test1/conversion.py:5"
+        },
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "input()"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.13": [
+        {
+            "label": "input()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test1/conversion.py:5"
+        },
+        {
+            "label": "float()"
+        },
+        {
+            "label": "input"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.14": [
+        {
+            "label": "input()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test1/conversion.py:5"
+        },
+        {
+            "label": "float()"
+        },
+        {
+            "label": "StringLiteral"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.15": [
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test1/conversion.py:8"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "FloatLiteral"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.16": [
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test1/conversion.py:8"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "conv_fac"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.17": [
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test1/conversion.py:11"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.18": [
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test1/conversion.py:11"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "miles"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.19": [
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test1/conversion.py:11"
+        },
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "kilometers"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.20": [
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test1/conversion.py:11"
+        },
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "conv_fac"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.21": [
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test1/conversion.py:14"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "print()"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.22": [
+        {
+            "label": "print()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test1/conversion.py:14"
+        },
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "print"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.23": [
+        {
+            "label": "print()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test1/conversion.py:14"
+        },
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.24": [
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test1/conversion.py:14"
+        },
+        {
+            "label": "print()"
+        },
+        {
+            "label": "StringLiteral"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.25": [
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test1/conversion.py:14"
+        },
+        {
+            "label": "print()"
+        },
+        {
+            "label": "Tuple"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.26": [
+        {
+            "label": "Tuple"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test1/conversion.py:14"
+        },
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "kilometers"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.27": [
+        {
+            "label": "Tuple"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test1/conversion.py:14"
+        },
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "miles"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.28": [
+        {
+            "label": "ExceptStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test1/conversion.py:16"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "ValueError"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.29": [
+        {
+            "label": "ExceptStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test1/conversion.py:16"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.30": [
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test1/conversion.py:17"
+        },
+        {
+            "label": "ExceptStmt"
+        },
+        {
+            "label": "print()"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.31": [
+        {
+            "label": "print()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test1/conversion.py:17"
+        },
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "print"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.32": [
+        {
+            "label": "print()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test1/conversion.py:17"
+        },
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "StringLiteral"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.33": [
+        {
+            "label": "If"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test1/conversion.py:19"
+        },
+        {
+            "label": "Script conversion.py"
+        },
+        {
+            "label": "Compare"
+        },
+        {
+            "label": "Script conversion.py"
+        }
+    ],
+    "#select.tuples.34": [
+        {
+            "label": "If"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test1/conversion.py:19"
+        },
+        {
+            "label": "Script conversion.py"
+        },
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "Script conversion.py"
+        }
+    ],
+    "#select.tuples.35": [
+        {
+            "label": "Compare"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test1/conversion.py:19"
+        },
+        {
+            "label": "If"
+        },
+        {
+            "label": "__name__"
+        },
+        {
+            "label": "Script conversion.py"
+        }
+    ],
+    "#select.tuples.36": [
+        {
+            "label": "Compare"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test1/conversion.py:19"
+        },
+        {
+            "label": "If"
+        },
+        {
+            "label": "StringLiteral"
+        },
+        {
+            "label": "Script conversion.py"
+        }
+    ],
+    "#select.tuples.37": [
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test1/conversion.py:20"
+        },
+        {
+            "label": "If"
+        },
+        {
+            "label": "main()"
+        },
+        {
+            "label": "Script conversion.py"
+        }
+    ],
+    "#select.tuples.38": [
+        {
+            "label": "main()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test1/conversion.py:20"
+        },
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "main"
+        },
+        {
+            "label": "Script conversion.py"
+        }
+    ]
+}
