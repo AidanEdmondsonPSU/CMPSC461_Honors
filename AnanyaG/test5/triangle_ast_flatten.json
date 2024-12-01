@@ -1,0 +1,1181 @@
+{
+    "#select.columns.0.name": "node",
+    "#select.columns.0.kind": "Entity",
+    "#select.columns.1.kind": "Entity",
+    "#select.columns.2.kind": "Entity",
+    "#select.columns.3.kind": "Entity",
+    "#select.columns.4.kind": "Entity",
+    "#select.tuples.0": [
+        {
+            "label": "FunctionDef"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:1"
+        },
+        {
+            "label": "Script triangle.py"
+        },
+        {
+            "label": "FunctionExpr"
+        },
+        {
+            "label": "Script triangle.py"
+        }
+    ],
+    "#select.tuples.1": [
+        {
+            "label": "FunctionDef"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:1"
+        },
+        {
+            "label": "Script triangle.py"
+        },
+        {
+            "label": "main"
+        },
+        {
+            "label": "Script triangle.py"
+        }
+    ],
+    "#select.tuples.2": [
+        {
+            "label": "FunctionExpr"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:1"
+        },
+        {
+            "label": "FunctionDef"
+        },
+        {
+            "label": "Function main"
+        },
+        {
+            "label": "Script triangle.py"
+        }
+    ],
+    "#select.tuples.3": [
+        {
+            "label": "Function main"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:1"
+        },
+        {
+            "label": "FunctionExpr"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "Script triangle.py"
+        }
+    ],
+    "#select.tuples.4": [
+        {
+            "label": "Try"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:2"
+        },
+        {
+            "label": "Function main"
+        },
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.5": [
+        {
+            "label": "Try"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:2"
+        },
+        {
+            "label": "Function main"
+        },
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.6": [
+        {
+            "label": "Try"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:2"
+        },
+        {
+            "label": "Function main"
+        },
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.7": [
+        {
+            "label": "Try"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:2"
+        },
+        {
+            "label": "Function main"
+        },
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.8": [
+        {
+            "label": "Try"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:2"
+        },
+        {
+            "label": "Function main"
+        },
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.9": [
+        {
+            "label": "Try"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:2"
+        },
+        {
+            "label": "Function main"
+        },
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.10": [
+        {
+            "label": "Try"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:2"
+        },
+        {
+            "label": "Function main"
+        },
+        {
+            "label": "ExceptStmt"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.11": [
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:3"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "float()"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.12": [
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:3"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "a"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.13": [
+        {
+            "label": "float()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:3"
+        },
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "float"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.14": [
+        {
+            "label": "float()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:3"
+        },
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "input()"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.15": [
+        {
+            "label": "input()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:3"
+        },
+        {
+            "label": "float()"
+        },
+        {
+            "label": "input"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.16": [
+        {
+            "label": "input()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:3"
+        },
+        {
+            "label": "float()"
+        },
+        {
+            "label": "StringLiteral"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.17": [
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:4"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "float()"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.18": [
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:4"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "b"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.19": [
+        {
+            "label": "float()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:4"
+        },
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "float"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.20": [
+        {
+            "label": "float()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:4"
+        },
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "input()"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.21": [
+        {
+            "label": "input()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:4"
+        },
+        {
+            "label": "float()"
+        },
+        {
+            "label": "input"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.22": [
+        {
+            "label": "input()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:4"
+        },
+        {
+            "label": "float()"
+        },
+        {
+            "label": "StringLiteral"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.23": [
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:5"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "float()"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.24": [
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:5"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "c"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.25": [
+        {
+            "label": "float()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:5"
+        },
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "float"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.26": [
+        {
+            "label": "float()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:5"
+        },
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "input()"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.27": [
+        {
+            "label": "input()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:5"
+        },
+        {
+            "label": "float()"
+        },
+        {
+            "label": "input"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.28": [
+        {
+            "label": "input()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:5"
+        },
+        {
+            "label": "float()"
+        },
+        {
+            "label": "StringLiteral"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.29": [
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:8"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.30": [
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:8"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "s"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.31": [
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:8"
+        },
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.32": [
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:8"
+        },
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "IntegerLiteral"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.33": [
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:8"
+        },
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.34": [
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:8"
+        },
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "c"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.35": [
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:8"
+        },
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "a"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.36": [
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:8"
+        },
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "b"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.37": [
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:11"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.38": [
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:11"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "area"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.39": [
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:11"
+        },
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.40": [
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:11"
+        },
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "FloatLiteral"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.41": [
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:11"
+        },
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.42": [
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:11"
+        },
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.43": [
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:11"
+        },
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.44": [
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:11"
+        },
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.45": [
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:11"
+        },
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "s"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.46": [
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:11"
+        },
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.47": [
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:11"
+        },
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "s"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.48": [
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:11"
+        },
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "a"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.49": [
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:11"
+        },
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "s"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.50": [
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:11"
+        },
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "b"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.51": [
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:11"
+        },
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "s"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.52": [
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:11"
+        },
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "c"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.53": [
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:12"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "print()"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.54": [
+        {
+            "label": "print()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:12"
+        },
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "print"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.55": [
+        {
+            "label": "print()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:12"
+        },
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.56": [
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:12"
+        },
+        {
+            "label": "print()"
+        },
+        {
+            "label": "StringLiteral"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.57": [
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:12"
+        },
+        {
+            "label": "print()"
+        },
+        {
+            "label": "area"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.58": [
+        {
+            "label": "ExceptStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:14"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "ValueError"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.59": [
+        {
+            "label": "ExceptStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:14"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.60": [
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:15"
+        },
+        {
+            "label": "ExceptStmt"
+        },
+        {
+            "label": "print()"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.61": [
+        {
+            "label": "print()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:15"
+        },
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "print"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.62": [
+        {
+            "label": "print()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:15"
+        },
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "StringLiteral"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.63": [
+        {
+            "label": "If"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:17"
+        },
+        {
+            "label": "Script triangle.py"
+        },
+        {
+            "label": "Compare"
+        },
+        {
+            "label": "Script triangle.py"
+        }
+    ],
+    "#select.tuples.64": [
+        {
+            "label": "If"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:17"
+        },
+        {
+            "label": "Script triangle.py"
+        },
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "Script triangle.py"
+        }
+    ],
+    "#select.tuples.65": [
+        {
+            "label": "Compare"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:17"
+        },
+        {
+            "label": "If"
+        },
+        {
+            "label": "__name__"
+        },
+        {
+            "label": "Script triangle.py"
+        }
+    ],
+    "#select.tuples.66": [
+        {
+            "label": "Compare"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:17"
+        },
+        {
+            "label": "If"
+        },
+        {
+            "label": "StringLiteral"
+        },
+        {
+            "label": "Script triangle.py"
+        }
+    ],
+    "#select.tuples.67": [
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:18"
+        },
+        {
+            "label": "If"
+        },
+        {
+            "label": "main()"
+        },
+        {
+            "label": "Script triangle.py"
+        }
+    ],
+    "#select.tuples.68": [
+        {
+            "label": "main()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test5/triangle.py:18"
+        },
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "main"
+        },
+        {
+            "label": "Script triangle.py"
+        }
+    ]
+}

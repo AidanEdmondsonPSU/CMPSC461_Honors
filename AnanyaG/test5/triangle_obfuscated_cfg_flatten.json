@@ -1,0 +1,110 @@
+{
+    "#select.columns.0.name": "node",
+    "#select.columns.0.kind": "Entity",
+    "#select.columns.1.kind": "Entity",
+    "#select.columns.2.kind": "Entity",
+    "#select.columns.3.kind": "Entity",
+    "#select.columns.4.kind": "Entity",
+    "#select.tuples.0": [
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "/content/codeql_ob_python_project/test5_ob/triangle.py:1"
+        },
+        {
+            "label": "Script triangle.py"
+        },
+        {
+            "label": "__pyarmor__()"
+        },
+        {
+            "label": "Script triangle.py"
+        }
+    ],
+    "#select.tuples.1": [
+        {
+            "label": "__pyarmor__()"
+        },
+        {
+            "label": "/content/codeql_ob_python_project/test5_ob/triangle.py:1"
+        },
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "__pyarmor__"
+        },
+        {
+            "label": "Script triangle.py"
+        }
+    ],
+    "#select.tuples.2": [
+        {
+            "label": "__pyarmor__()"
+        },
+        {
+            "label": "/content/codeql_ob_python_project/test5_ob/triangle.py:1"
+        },
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "__name__"
+        },
+        {
+            "label": "Script triangle.py"
+        }
+    ],
+    "#select.tuples.3": [
+        {
+            "label": "__pyarmor__()"
+        },
+        {
+            "label": "/content/codeql_ob_python_project/test5_ob/triangle.py:1"
+        },
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "__file__"
+        },
+        {
+            "label": "Script triangle.py"
+        }
+    ],
+    "#select.tuples.4": [
+        {
+            "label": "__pyarmor__()"
+        },
+        {
+            "label": "/content/codeql_ob_python_project/test5_ob/triangle.py:1"
+        },
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "StringLiteral"
+        },
+        {
+            "label": "Script triangle.py"
+        }
+    ],
+    "#select.tuples.5": [
+        {
+            "label": "__pyarmor__()"
+        },
+        {
+            "label": "/content/codeql_ob_python_project/test5_ob/triangle.py:1"
+        },
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "IntegerLiteral"
+        },
+        {
+            "label": "Script triangle.py"
+        }
+    ]
+}
