@@ -1,0 +1,790 @@
+{
+    "#select.columns.0.name": "node",
+    "#select.columns.0.kind": "Entity",
+    "#select.columns.1.kind": "Entity",
+    "#select.columns.2.kind": "Entity",
+    "#select.columns.3.kind": "Entity",
+    "#select.columns.4.kind": "Entity",
+    "#select.tuples.0": [
+        {
+            "label": "FunctionDef"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test3/sum.py:1"
+        },
+        {
+            "label": "Script sum.py"
+        },
+        {
+            "label": "FunctionExpr"
+        },
+        {
+            "label": "Script sum.py"
+        }
+    ],
+    "#select.tuples.1": [
+        {
+            "label": "FunctionDef"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test3/sum.py:1"
+        },
+        {
+            "label": "Script sum.py"
+        },
+        {
+            "label": "main"
+        },
+        {
+            "label": "Script sum.py"
+        }
+    ],
+    "#select.tuples.2": [
+        {
+            "label": "FunctionExpr"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test3/sum.py:1"
+        },
+        {
+            "label": "FunctionDef"
+        },
+        {
+            "label": "Function main"
+        },
+        {
+            "label": "Script sum.py"
+        }
+    ],
+    "#select.tuples.3": [
+        {
+            "label": "Function main"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test3/sum.py:1"
+        },
+        {
+            "label": "FunctionExpr"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "Script sum.py"
+        }
+    ],
+    "#select.tuples.4": [
+        {
+            "label": "Try"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test3/sum.py:3"
+        },
+        {
+            "label": "Function main"
+        },
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.5": [
+        {
+            "label": "Try"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test3/sum.py:3"
+        },
+        {
+            "label": "Function main"
+        },
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.6": [
+        {
+            "label": "Try"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test3/sum.py:3"
+        },
+        {
+            "label": "Function main"
+        },
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.7": [
+        {
+            "label": "Try"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test3/sum.py:3"
+        },
+        {
+            "label": "Function main"
+        },
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.8": [
+        {
+            "label": "Try"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test3/sum.py:3"
+        },
+        {
+            "label": "Function main"
+        },
+        {
+            "label": "ExceptStmt"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.9": [
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test3/sum.py:4"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "float()"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.10": [
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test3/sum.py:4"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "num1"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.11": [
+        {
+            "label": "float()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test3/sum.py:4"
+        },
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "float"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.12": [
+        {
+            "label": "float()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test3/sum.py:4"
+        },
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "input()"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.13": [
+        {
+            "label": "input()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test3/sum.py:4"
+        },
+        {
+            "label": "float()"
+        },
+        {
+            "label": "input"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.14": [
+        {
+            "label": "input()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test3/sum.py:4"
+        },
+        {
+            "label": "float()"
+        },
+        {
+            "label": "StringLiteral"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.15": [
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test3/sum.py:5"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "float()"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.16": [
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test3/sum.py:5"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "num2"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.17": [
+        {
+            "label": "float()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test3/sum.py:5"
+        },
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "float"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.18": [
+        {
+            "label": "float()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test3/sum.py:5"
+        },
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "input()"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.19": [
+        {
+            "label": "input()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test3/sum.py:5"
+        },
+        {
+            "label": "float()"
+        },
+        {
+            "label": "input"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.20": [
+        {
+            "label": "input()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test3/sum.py:5"
+        },
+        {
+            "label": "float()"
+        },
+        {
+            "label": "StringLiteral"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.21": [
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test3/sum.py:8"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.22": [
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test3/sum.py:8"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "result"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.23": [
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test3/sum.py:8"
+        },
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "num1"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.24": [
+        {
+            "label": "BinaryExpr"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test3/sum.py:8"
+        },
+        {
+            "label": "AssignStmt"
+        },
+        {
+            "label": "num2"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.25": [
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test3/sum.py:11"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "print()"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.26": [
+        {
+            "label": "print()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test3/sum.py:11"
+        },
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "print"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.27": [
+        {
+            "label": "print()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test3/sum.py:11"
+        },
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "Fstring"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.28": [
+        {
+            "label": "Fstring"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test3/sum.py:11"
+        },
+        {
+            "label": "print()"
+        },
+        {
+            "label": "StringLiteral"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.29": [
+        {
+            "label": "Fstring"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test3/sum.py:11"
+        },
+        {
+            "label": "print()"
+        },
+        {
+            "label": "num1"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.30": [
+        {
+            "label": "Fstring"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test3/sum.py:11"
+        },
+        {
+            "label": "print()"
+        },
+        {
+            "label": "StringLiteral"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.31": [
+        {
+            "label": "Fstring"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test3/sum.py:11"
+        },
+        {
+            "label": "print()"
+        },
+        {
+            "label": "num2"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.32": [
+        {
+            "label": "Fstring"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test3/sum.py:11"
+        },
+        {
+            "label": "print()"
+        },
+        {
+            "label": "StringLiteral"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.33": [
+        {
+            "label": "Fstring"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test3/sum.py:11"
+        },
+        {
+            "label": "print()"
+        },
+        {
+            "label": "result"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.34": [
+        {
+            "label": "Fstring"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test3/sum.py:11"
+        },
+        {
+            "label": "print()"
+        },
+        {
+            "label": "StringLiteral"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.35": [
+        {
+            "label": "ExceptStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test3/sum.py:13"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "ValueError"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.36": [
+        {
+            "label": "ExceptStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test3/sum.py:13"
+        },
+        {
+            "label": "Try"
+        },
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.37": [
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test3/sum.py:14"
+        },
+        {
+            "label": "ExceptStmt"
+        },
+        {
+            "label": "print()"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.38": [
+        {
+            "label": "print()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test3/sum.py:14"
+        },
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "print"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.39": [
+        {
+            "label": "print()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test3/sum.py:14"
+        },
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "StringLiteral"
+        },
+        {
+            "label": "Function main"
+        }
+    ],
+    "#select.tuples.40": [
+        {
+            "label": "If"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test3/sum.py:16"
+        },
+        {
+            "label": "Script sum.py"
+        },
+        {
+            "label": "Compare"
+        },
+        {
+            "label": "Script sum.py"
+        }
+    ],
+    "#select.tuples.41": [
+        {
+            "label": "If"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test3/sum.py:16"
+        },
+        {
+            "label": "Script sum.py"
+        },
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "Script sum.py"
+        }
+    ],
+    "#select.tuples.42": [
+        {
+            "label": "Compare"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test3/sum.py:16"
+        },
+        {
+            "label": "If"
+        },
+        {
+            "label": "__name__"
+        },
+        {
+            "label": "Script sum.py"
+        }
+    ],
+    "#select.tuples.43": [
+        {
+            "label": "Compare"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test3/sum.py:16"
+        },
+        {
+            "label": "If"
+        },
+        {
+            "label": "StringLiteral"
+        },
+        {
+            "label": "Script sum.py"
+        }
+    ],
+    "#select.tuples.44": [
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test3/sum.py:17"
+        },
+        {
+            "label": "If"
+        },
+        {
+            "label": "main()"
+        },
+        {
+            "label": "Script sum.py"
+        }
+    ],
+    "#select.tuples.45": [
+        {
+            "label": "main()"
+        },
+        {
+            "label": "/content/codeql_example_python_project/test3/sum.py:17"
+        },
+        {
+            "label": "ExprStmt"
+        },
+        {
+            "label": "main"
+        },
+        {
+            "label": "Script sum.py"
+        }
+    ]
+}
