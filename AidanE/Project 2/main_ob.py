@@ -1,0 +1,7 @@
+def main ():#line:1
+  O0OO00O0O00OOO0O0 =[OOO0OOOO0O00OOOOO for OOO0OOOO0O00OOOOO in range (1 ,6 )]#line:2
+  O00OOOO0O0O00O0OO =[OOO00OO00000O0O00 *OOO00OO00000O0O00 for OOO00OO00000O0O00 in O0OO00O0O00OOO0O0 ]#line:3
+  print ("Numbers:",O0OO00O0O00OOO0O0 )#line:5
+  print ("Squares:",O00OOOO0O0O00O0OO )#line:6
+if __name__ =="__main__":#line:8
+	main ()
