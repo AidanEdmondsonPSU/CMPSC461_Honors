@@ -1,0 +1,43 @@
+{"#select":{"columns":[
+   {"name":"node","kind":"Entity"}
+  ,{"kind":"Entity"}
+  ,{"kind":"Entity"}
+  ,{"kind":"Entity"}
+  ,{"kind":"Entity"}]
+ ,"tuples":[
+   [{"label":"AssignStmt"},{"label":"/content/codeql_example_python_project/main.py:1"},{"label":"Script main.py"},{"label":"IntegerLiteral"},{"label":"Script main.py"}]
+  ,[{"label":"AssignStmt"},{"label":"/content/codeql_example_python_project/main.py:1"},{"label":"Script main.py"},{"label":"n"},{"label":"Script main.py"}]
+  ,[{"label":"AssignStmt"},{"label":"/content/codeql_example_python_project/main.py:2"},{"label":"Script main.py"},{"label":"Tuple"},{"label":"Script main.py"}]
+  ,[{"label":"AssignStmt"},{"label":"/content/codeql_example_python_project/main.py:2"},{"label":"Script main.py"},{"label":"Tuple"},{"label":"Script main.py"}]
+  ,[{"label":"Tuple"},{"label":"/content/codeql_example_python_project/main.py:2"},{"label":"AssignStmt"},{"label":"IntegerLiteral"},{"label":"Script main.py"}]
+  ,[{"label":"Tuple"},{"label":"/content/codeql_example_python_project/main.py:2"},{"label":"AssignStmt"},{"label":"IntegerLiteral"},{"label":"Script main.py"}]
+  ,[{"label":"Tuple"},{"label":"/content/codeql_example_python_project/main.py:2"},{"label":"AssignStmt"},{"label":"a"},{"label":"Script main.py"}]
+  ,[{"label":"Tuple"},{"label":"/content/codeql_example_python_project/main.py:2"},{"label":"AssignStmt"},{"label":"b"},{"label":"Script main.py"}]
+  ,[{"label":"ExprStmt"},{"label":"/content/codeql_example_python_project/main.py:3"},{"label":"Script main.py"},{"label":"print()"},{"label":"Script main.py"}]
+  ,[{"label":"print()"},{"label":"/content/codeql_example_python_project/main.py:3"},{"label":"ExprStmt"},{"label":"print"},{"label":"Script main.py"}]
+  ,[{"label":"print()"},{"label":"/content/codeql_example_python_project/main.py:3"},{"label":"ExprStmt"},{"label":"a"},{"label":"Script main.py"}]
+  ,[{"label":"print()"},{"label":"/content/codeql_example_python_project/main.py:3"},{"label":"ExprStmt"},{"label":"b"},{"label":"Script main.py"}]
+  ,[{"label":"print()"},{"label":"/content/codeql_example_python_project/main.py:3"},{"label":"ExprStmt"},{"label":"Keyword"},{"label":"Script main.py"}]
+  ,[{"label":"Keyword"},{"label":"/content/codeql_example_python_project/main.py:3"},{"label":"print()"},{"label":"StringLiteral"},{"label":"Script main.py"}]
+  ,[{"label":"For"},{"label":"/content/codeql_example_python_project/main.py:4"},{"label":"Script main.py"},{"label":"_"},{"label":"Script main.py"}]
+  ,[{"label":"For"},{"label":"/content/codeql_example_python_project/main.py:4"},{"label":"Script main.py"},{"label":"range()"},{"label":"Script main.py"}]
+  ,[{"label":"For"},{"label":"/content/codeql_example_python_project/main.py:4"},{"label":"Script main.py"},{"label":"AssignStmt"},{"label":"Script main.py"}]
+  ,[{"label":"For"},{"label":"/content/codeql_example_python_project/main.py:4"},{"label":"Script main.py"},{"label":"ExprStmt"},{"label":"Script main.py"}]
+  ,[{"label":"range()"},{"label":"/content/codeql_example_python_project/main.py:4"},{"label":"For"},{"label":"range"},{"label":"Script main.py"}]
+  ,[{"label":"range()"},{"label":"/content/codeql_example_python_project/main.py:4"},{"label":"For"},{"label":"BinaryExpr"},{"label":"Script main.py"}]
+  ,[{"label":"BinaryExpr"},{"label":"/content/codeql_example_python_project/main.py:4"},{"label":"range()"},{"label":"n"},{"label":"Script main.py"}]
+  ,[{"label":"BinaryExpr"},{"label":"/content/codeql_example_python_project/main.py:4"},{"label":"range()"},{"label":"IntegerLiteral"},{"label":"Script main.py"}]
+  ,[{"label":"AssignStmt"},{"label":"/content/codeql_example_python_project/main.py:5"},{"label":"For"},{"label":"Tuple"},{"label":"Script main.py"}]
+  ,[{"label":"AssignStmt"},{"label":"/content/codeql_example_python_project/main.py:5"},{"label":"For"},{"label":"Tuple"},{"label":"Script main.py"}]
+  ,[{"label":"Tuple"},{"label":"/content/codeql_example_python_project/main.py:5"},{"label":"AssignStmt"},{"label":"b"},{"label":"Script main.py"}]
+  ,[{"label":"Tuple"},{"label":"/content/codeql_example_python_project/main.py:5"},{"label":"AssignStmt"},{"label":"BinaryExpr"},{"label":"Script main.py"}]
+  ,[{"label":"BinaryExpr"},{"label":"/content/codeql_example_python_project/main.py:5"},{"label":"Tuple"},{"label":"a"},{"label":"Script main.py"}]
+  ,[{"label":"BinaryExpr"},{"label":"/content/codeql_example_python_project/main.py:5"},{"label":"Tuple"},{"label":"b"},{"label":"Script main.py"}]
+  ,[{"label":"Tuple"},{"label":"/content/codeql_example_python_project/main.py:5"},{"label":"AssignStmt"},{"label":"a"},{"label":"Script main.py"}]
+  ,[{"label":"Tuple"},{"label":"/content/codeql_example_python_project/main.py:5"},{"label":"AssignStmt"},{"label":"b"},{"label":"Script main.py"}]
+  ,[{"label":"ExprStmt"},{"label":"/content/codeql_example_python_project/main.py:6"},{"label":"For"},{"label":"print()"},{"label":"Script main.py"}]
+  ,[{"label":"print()"},{"label":"/content/codeql_example_python_project/main.py:6"},{"label":"ExprStmt"},{"label":"print"},{"label":"Script main.py"}]
+  ,[{"label":"print()"},{"label":"/content/codeql_example_python_project/main.py:6"},{"label":"ExprStmt"},{"label":"b"},{"label":"Script main.py"}]
+  ,[{"label":"print()"},{"label":"/content/codeql_example_python_project/main.py:6"},{"label":"ExprStmt"},{"label":"Keyword"},{"label":"Script main.py"}]
+  ,[{"label":"Keyword"},{"label":"/content/codeql_example_python_project/main.py:6"},{"label":"print()"},{"label":"StringLiteral"},{"label":"Script main.py"}]]
+ }}
